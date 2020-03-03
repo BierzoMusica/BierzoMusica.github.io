@@ -1,4 +1,4 @@
-title:              Clean Blog
+title:              Bierzo Música
 email:              your-email@example.com
 description:        A Blog Theme by Start Bootstrap
 author:             Start Bootstrap
@@ -6,9 +6,9 @@ baseurl:            "/startbootstrap-clean-blog-jekyll"
 url:                "https://blackrockdigital.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    BlackrockDigital
-facebook_username:  StartBootstrap
+twitter_username:   
+github_username:    BierzoMusica
+facebook_username:  BierzoMusica
 linkedin_username:
 
 # Add your google-analytics ID here to activate google analytics
