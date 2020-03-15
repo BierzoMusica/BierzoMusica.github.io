@@ -1,13 +1,13 @@
 title:              Bierzo Música
-email:              bierzomusica@gmail.com
+email:              elbierzomusica@gmail.com
 description:        Información sobre música en El Bierzo
 author:             P. L.
 baseurl:            ""
 url:                "https://bierzomusica.github.io"
 
 # Social Profiles
-twitter_username:   
-github_username:    BierzoMusica
+twitter_username:   BierzoMusica
+github_username:    
 facebook_username:  BierzoMusica
 linkedin_username:
 
